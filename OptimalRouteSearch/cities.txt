@@ -1,0 +1,70 @@
+Acapulco
+Aguascalientes
+Campeche
+Cancun
+Celaya
+Chetumal
+Chihuahua
+Chilpancingo
+Ciudad Juarez
+Ciudad Madero
+Ciudad Mante
+Ciudad Victoria
+Ciudad de Mexico
+Ciudad del Carmen
+Coatzacoalcos
+Colima
+Cordoba
+Cuernavaca
+Culiacan
+Delicias
+Durango
+Ensenada
+Gomez Palacio
+Guadalajara
+Guanajuato
+Guaymas
+Hermosillo
+Heroica Nogales 
+Hidalgo del Parral
+Irapuato
+Jalapa
+La Paz
+Lazaro Cardenas
+Leon
+Loreto
+Los Mochis
+Manzanillo
+Matamoros
+Mazatlan
+Merida
+Mexicali
+Minatitlan
+Monclova
+Monterrey
+Morelia
+Oaxaca
+Orizaba
+Pachuca
+Poza Rica
+Progreso
+Puebla
+Puerto Vallarta
+Queretaro
+Reynosa
+Saltillo
+San Cristobal de las Casas
+San Luis Potosi
+San Quintin
+Santa Rosalia
+Tampico
+Tepic
+Tijuana
+Tlaxcala
+Toluca
+Torreon
+Tuxtla Gutierrez
+Veracruz
+Villahermosa
+Zacatecas
+Zamora

@@ -1,0 +1,1 @@
+Start /d "C:\Users\Dana\Desktop\trashectoria2" MULISP.COM trace.lsp

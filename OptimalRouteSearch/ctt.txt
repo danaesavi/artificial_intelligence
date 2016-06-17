@@ -1,0 +1,70 @@
+Acapulco	596.2165051
+Aguascalientes	428.3180284
+Campeche	496.8878337
+Cancun	452.4526664
+Celaya	473.6044113
+Chetumal	541.2613855
+Chihuahua	203.1785306
+Chilpancingo	572.9134006
+Ciudad Juarez	101.1689141
+Ciudad Madero	416.2315778
+Ciudad Mante	399.7261568
+Ciudad Victoria	366.5370649
+Ciudad de Mexico	510.1510706
+Ciudad del Carmen	536.2466333
+Coatzacoalcos	553.4633964
+Colima	516.4028199
+Cordoba	528.4591017
+Cuernavaca	527.1138647
+Culiacan	330.7646444
+Delicias	218.0552473
+Durango	356.8343457
+Ensenada	95.28400154
+Gomez Palacio	304.7370499
+Guadalajara	469.2089634
+Guanajuato	457.2203328
+Guaymas	227.038987
+Hermosillo	188.4988019
+Heroica Nogales	114.1539155
+Hidalgo del Parral	259.9397705
+Irapuato	468.5761462
+Jalapa	506.4419511
+La Paz	353
+Lazaro Cardenas	559.3928314
+Leon	453.6838513
+Loreto	290.6366341
+Los Mochis	298.0200366
+Manzanillo	520.7878311
+Matamoros	295.3987452
+Mazatlan	382.8026403
+Merida	458.9434538
+Mexicali	70
+Minatitlan	557.9320441
+Monclova	260.7320499
+Monterrey	301.4850599
+Morelia	501.0309441
+Oaxaca	589.3329929
+Orizaba	529.5740491
+Pachuca	487.8480171
+Poza Rica	473.6345067
+Progreso	448.4727751
+Puebla	523.2072299
+Puerto Vallarta	469.4188904
+Queretaro	471.574741
+Reynosa	289.332583
+Saltillo	310.1563282
+San Cristobal de las Casas	600.0892909
+San Luis Potosi	419.2689363
+San Quintin	138.8544473
+Santa Rosalia	246.4465474
+Tampico	416.7120229
+Tepic	441.033199
+Tijuana	73.65655607
+Tlaxcala	513.9699015
+Toluca	515.1557765
+Torreon	306.2819676
+Tuxtla Gutierrez	599.6033271
+Veracruz	518.7871352
+Villahermosa	558.3020772
+Zacatecas	398.7675387
+Zamora	491.5476876

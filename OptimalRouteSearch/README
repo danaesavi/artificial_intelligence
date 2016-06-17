@@ -1,0 +1,16 @@
+
+		     Recent Additions to muLISP-90
+
+1.  Loading the file STATS.LSP displays the current size of the various
+    muLISP data spaces in bytes.  It should normally be loaded just after
+    issuing a SAVE or RECLAIM command.
+
+2.  The file NECGRAPH.LSP is only for users of the NEC PC-9801 series of
+    computers.	It defines the following graphics functions:
+
+	GRAPHICS-INIT			GRAPHICS-SCREEN
+	GRAPHICS-WINDOW 		GRAPHICS-COLOR
+	GRAPHICS-CLS			GRAPHICS-PLOT-DOT
+	GRAPHICS-PLOT-LINE		GRAPHICS-PLOT-BOX
+	GRAPHICS-PLOT-CIRCLE		GRAPHICS-READ-DOT
+
