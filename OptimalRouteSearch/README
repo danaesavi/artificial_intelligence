@@ -1,16 +1,28 @@
 
-		     Recent Additions to muLISP-90
+	Optimal Route Search using A* Algorithm 
 
-1.  Loading the file STATS.LSP displays the current size of the various
-    muLISP data spaces in bytes.  It should normally be loaded just after
-    issuing a SAVE or RECLAIM command.
+Calculates the best route between two points from Mexico
 
-2.  The file NECGRAPH.LSP is only for users of the NEC PC-9801 series of
-    computers.	It defines the following graphics functions:
+LISP:
+120 code lines
+9 functions
+227 conections
+70 nodes
+Processing:
+Runs trace.lsp using Runtime (JAVA)
+JAVA
 
-	GRAPHICS-INIT			GRAPHICS-SCREEN
-	GRAPHICS-WINDOW 		GRAPHICS-COLOR
-	GRAPHICS-CLS			GRAPHICS-PLOT-DOT
-	GRAPHICS-PLOT-LINE		GRAPHICS-PLOT-BOX
-	GRAPHICS-PLOT-CIRCLE		GRAPHICS-READ-DOT
-
+Functions:
+
+damegPapa: returns the cost g from a node's dad
+- calculaCosto: calculates the cost f=g+h
+- ordena: orders the open list with respect to f
+-indicaExpande: indicates if a node should or should not be expanded
+-expande: expands the node and puts it in the open list
+- coordenadas: gets the latitude and longitude from a node
+- buscaVecinos: looks for its neighbors given a node id
+- buscag: given a final and initial node returns g
+- backtracking: creates a list with the final route
+
+weighted A* so that there is less probability of a memory stackoverflow.
+
