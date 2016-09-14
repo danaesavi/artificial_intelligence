@@ -157,7 +157,7 @@ Runtime r=Runtime.getRuntime();
 Process p1;
 //if(vExit!=0){
   try{
-    p1 = r.exec("cmd /c start C:/Users/Mariana/Documents/trashectoria2/puto.bat");
+    p1 = r.exec("cmd /c start C:/Users/Mariana/Documents/trashectoria2/run.bat");
     //Thread.sleep(2500);
     vExit=p1.waitFor();
     flagD=true;
